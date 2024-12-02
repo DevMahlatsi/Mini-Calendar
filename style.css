@@ -1,0 +1,27 @@
+body{
+    font-family: monospace;
+    font-size: 20px;
+    background-color: mediumpurple;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    padding-bottom: 10px;
+    background-color: white;
+    border-radius: 7px;
+    text-align: center;
+    border: none;
+    width: 360px;
+
+}
+.day-in-month{
+    font-size: 70px;
+}
+.month{
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    padding: 0;
+    margin: 0;
+    background-color: #ff4400;
+    color: white;
+}
